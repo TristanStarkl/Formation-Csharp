@@ -35,9 +35,11 @@ namespace Serie_I
                         Console.WriteLine(SpeakingClock.GoodDay(25));
             */
 
-            /*            Pyramid.PyramidConstruction(10, true);
+                        Pyramid.PyramidConstruction(10, true);
                         Pyramid.PyramidConstruction(10, false);
-            */
+            
+            
+            
 
             /*            Console.WriteLine(Factorial.Factorial_(5));
                         Console.WriteLine(Factorial.FactorialRecursive(5));
